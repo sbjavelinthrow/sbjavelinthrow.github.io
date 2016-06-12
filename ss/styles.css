@@ -1,0 +1,49 @@
+
+.navbar-nav{
+	font-family: 'Asar';
+	font-size:18px;
+	color:black;
+
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+    
+
+
+
+  /* CSS for Sections */
+
+.top{
+	
+	padding-top:20px;
+	background: lightgreen;
+	font-family: 'Asar';
+}
+
+
+.aboutme{
+	
+	padding-top:100px;
+}
+
+.comedy{ 
+	padding-top: 50px;
+	background: lightyellow;}
+
+.illustrations{ 
+	padding-top: 50px;
+	}
+
+.workinprogess{ 
+	padding-top: 100px;}
+
+.shop{ 
+	padding-top: 100px;}
+
+.getintouch{ 
+	padding-top: 100px;}
+
+
