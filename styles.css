@@ -1,68 +1,69 @@
-/* Main CSS file */
 
-/* Most of the Media queries are done within the bootstrap file (screen.css)
-and in the html with the col-sm-4 classes */
+/* For desktop: */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
 
-/*Set all container-fluid to have a lightblue background and a padding-bottom of 5px */
-.container-fluid {
-  background-color: lightblue;
-  padding-bottom: 1px;
-}
-
-/*Default styles for each of the sections (home,about,illustrations)*/
-#home{
-	padding-top:50px;
-	height:100%;
-}
-#about{
-	padding-top:50px;
-	height:100%;
-	margin-bottom:100px;
-}
-#illustrations{
-	padding-top:50px;
-	height:100%;
-}
-
-/* Setting the page header to have a padding-top and font-family of 'Contrail One' */
-.page-header {
-	padding-top:40px;
- 	font-family: 'Contrail One';
- 	background-color:lightyellow;
- 	
- }
-/* Used to colour the text red and change it to size 25px*/
-.info{
-	color:red; 
-	font-size:25px;
-}
-
-/* Styles for the images in the 'illustration' section to link with the JS */
-.crop-img{
-	max-height:150px;			
-	max-width: 100%;
-	margin-bottom: 10px;
-}
-
-.large-img{
-	max-width: 100%;
-	margin-top: 10px;
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
 }
 
 
-/* CSS for the about me section which links to the JS*/ 
-.aboutmescroll-thumbnail {
-  margin-top: 10px;   
-  white-space : pre;  
-  overflow : hidden;  
-  max-height: 150px;  
-  height : 150px;     
-  border-radius: 1px;
-  background-color:lightyellow;
+.navbar-nav{
+	font-family: 'Asar';
+	font-size:18px;
+	color:black;
+
 }
 
-#mainViewer {
-  margin-top: 10px;   
-  white-space : pre; 
-  background-color:lightyellow;
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+    
+
+  /* CSS for Sections */
+
+.top{
+	
+	padding-top:20px;
+	background: lightyellow;
+	font-family: 'Asar';
 }
+
+
+.aboutme{
+	
+	padding-top:100px;
+}
+
+.comedy{ 
+	padding-top: 50px;
+	background: lightyellow;}
+
+.illustrations{ 
+	padding-top: 50px;
+	}
+
+.workinprogess{ 
+	padding-top: 100px;}
+
+.shop{ 
+	padding-top: 100px;}
+
+.getintouch{ 
+	padding-top: 100px;}
+
+
