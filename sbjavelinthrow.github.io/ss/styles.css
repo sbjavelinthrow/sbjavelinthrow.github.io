@@ -1,0 +1,69 @@
+
+/* For desktop: */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
+}
+
+
+.navbar-nav{
+	font-family: 'Asar';
+	font-size:18px;
+	color:black;
+
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+    
+
+  /* CSS for Sections */
+
+.top{
+	
+	padding-top:20px;
+	background: lightyellow;
+	font-family: 'Asar';
+}
+
+
+.aboutme{
+	
+	padding-top:100px;
+}
+
+.comedy{ 
+	padding-top: 50px;
+	background: lightyellow;}
+
+.illustrations{ 
+	padding-top: 50px;
+	}
+
+.workinprogess{ 
+	padding-top: 100px;}
+
+.shop{ 
+	padding-top: 100px;}
+
+.getintouch{ 
+	padding-top: 100px;}
+
+
