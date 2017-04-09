@@ -16,15 +16,20 @@
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     [class*="col-"] {
-        width: 100%;
+        width: 10%;
     }
 }
 
 
 .navbar-nav{
+	display: inline-block;
+	float: none;
+	vertical-align: top;
 	font-family: 'Asar';
 	font-size:18px;
 	color:black;
+	text-align: center;
+	
 
 }
 
@@ -46,11 +51,13 @@ img.center {
 
 .aboutme{
 	
-	padding-top:100px;
+	padding-top:60px;
+		background: lightyellow;
+		font-family: 'Asar';
 }
 
 .comedy{ 
-	padding-top: 50px;
+	padding-top: 20px;
 	background: lightyellow;}
 
 .illustrations{ 
