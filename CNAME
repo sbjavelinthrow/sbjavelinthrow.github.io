@@ -1,1 +1,374 @@
-dannyclives.com
+hello world danny CLIVES cxxxxx
+
+<html lang="en">
+<head>
+<title> Danny Clives</title>
+<!-- start of scrolling image feature -->
+<link rel="stylesheet" href="flickity-docs/flickity.css" media="screen">
+
+
+
+<link rel ="stylesheet" href="ss/bootstrap.css">
+<link rel ="stylesheet" href="ss/styles.css">
+ <link href='https://fonts.googleapis.com/css?family=Asar' rel='stylesheet' type='text/css'>
+
+ <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<nav class ="navbar navbar-default navbar-fixed-top">
+<div class ="container-fluid">
+
+<!-- start collapsed navbar-->
+<div class ="navbar-header">
+
+<button 
+type ="button" 
+class="navbar-toggle collapsed"
+data-toggle="collapse" 
+data-target="#main_navbar" 
+aria-expanded ="false"
+>navigation
+</button>
+</div><!-- /collapsed navbar-->
+
+<!-- start un-collapsed navbar-->
+
+<div class="collapse navbar-collapse" id="main_navbar">
+
+<ul class="nav navbar-nav">
+
+      <li><a href="#comedy">comedy&nbsp;</a></li>
+      <li><a href="#illustrations">illustrations&nbsp;</a></li>
+      <li><a href="#shop">shop&nbsp;</a></li>
+   
+      
+     
+</ul>
+
+
+<!--Links for navbar -->
+      <ul class="nav navbar-nav navbar-right">
+    
+
+      <li><a href="#"> say hello at hello@dannyclives.com&nbsp; </a> </li>
+      <li><a href="#aboutme">about &nbsp;</a></li>
+      <li><a href="https://twitter.com/dannyclives"> follow &nbsp; </a> </li>
+      <li><a href="#"> like &nbsp; </a> </li>
+
+
+<!-- Twitter link 
+<a href="https://twitter.com/stuffbydjc" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @stuffbydjc</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+</script>-->
+
+
+      </ul>
+    </div>
+
+
+  </div>
+</nav>
+
+
+
+
+
+
+<!--Top section -->
+<section>
+<!--linking to the section -->
+<div id="top" class="top">
+  <br><br>
+
+
+
+<img src="imgs/cereal.jpg" 
+height="1200px" width="900px" class="center img-responsive">
+<h1 class = "text-center">Hi I am danny I am a comedian and an illustrator. Also a tall child.</h1>
+<h2 class = "text-center"> 
+
+
+Shortlisted for the Pleasance Comedy Reserve 2017<br>
+Stand Up For Cider Finalist 2017<br>
+Leicester Square New Comedian Of The Year 2016 Finalist<br>
+Shortlisted for the Pleasance Comedy Reserve 2016<br>
+Shortlisted for the BBC Radio New Comedy Award 2014<br>
+Nominated for Birmingham Comedy Festival Breakthrough Act 2014</h2>
+
+<h2 class = "text-center"> As heard on BBC Radio 2 and 4 Extra.</h2>
+
+
+
+
+
+
+
+<h2 class = "text-center">'Danny Clives turns life's struggles into understated, brilliant observed gags'. Very Funny' - Joe Lycett.<br>
+'Danny Clives is a lo-fi wonder. His shambling frame belies a sharp comic mind and audiences fall for his whimsical likeability.A two time Comedy Ladder winner and welcome back not just any time but EVERY time.' - Comedy Ladder<br>
+
+‘Has a good shtick’ - Gary Delaney<br>
+‘downbeat geek’ - Chortle </h2>
+
+
+
+<br>
+<br>
+
+
+
+
+</div>
+</section>
+
+
+
+<!--About Me Section -->
+<section>
+<!--linking to the Section -->
+<div id="aboutme" class="aboutme">
+<!-- <h1> About me </h1> -->
+
+
+
+
+<img src="imgs/djc.jpg" height="2000px" width="1400px" class="center img-responsive">
+
+He was a finalist of the Leicester Square New Comedian Of The Year 2016 and was also shortlisted for the BBC Comedy Award in 2014.
+
+His comedy material is based on his struggle being a human being, failures with women and trying to fit in. These topics are delivered through this low energy, shy persona which is actually how he is in real life just 1% exaggerated.
+
+He is currently writing a show he plans to take to the Birmingham Comedy Festival in October. 
+
+Otherwise spends most of his spare time running his illustration shop, designing websites and sleeping past 10am.
+
+www.twitter.com/dannyclives
+www.stuffbydanieljamesclives.com
+
+
+Danny was born in 1990 in dudley 
+
+Danny Clives is a comedian. 
+
+
+
+</h1>
+
+
+
+
+</section>
+
+
+
+
+<section>
+<!--linking to the Section -->
+<div id ="comedy" class="comedy">
+<h1> Comedy</h1>  
+
+<h1 class ="text-center"> <br>
+
+
+
+<iframe width="1000" height="600" src="https://www.youtube.com/embed/x4-HWkIbSG8" frameborder="0" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="1000" height="600" src="https://www.youtube.com/embed/jNkONbcjpXQ" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+<br><br>
+
+
+
+
+
+
+<section>
+<!--linking to the Section -->
+<div id ="illustrations" class="illustrations">
+<h1>Illustrations</h1>
+
+little icons you can click on and make bigger with a back story of how i came
+up with the idea
+
+
+<h1 class ="text-center"> <br>
+
+
+<!--Start of jQuery Sliding gallery -->
+<div class="main-gallery js-flickity"
+  data-flickity-options='{ "cellAlign": "left", "imagesLoaded": true, "percentPosition": true, "autoPlay": 4000, "prevNextButtons": true }'>
+
+<div class="gallery-cell text-center">
+<img src="imgs/r2d2.jpg" width="1100px" height="800px" alt="R2D2"/>
+</div>
+
+<div class="gallery-cell text-center">
+<img src="imgs/img_3.jpg" width="1100px" height="800px" alt="jack"/> 
+</div>
+
+<div class="gallery-cell text-center">
+<img src="imgs/test4.jpg" width="500px" height="700px" alt="Tyrion"/>
+</div>
+
+<div class="gallery-cell text-center">
+<img src="imgs/img_4.jpg" width="1100px" height="800px" alt="cheese"/>
+</div>
+
+<div class="gallery-cell text-center">
+<img src="imgs/jack.jpg" height="800px" width="600px" alt="bane"/>
+</div>
+
+<div class="gallery-cell text-center">
+<img src="imgs/img_2.jpg" width="1100px" height="800px" alt="bane"/>
+</div>
+
+</div>
+
+</h1>
+
+<!--
+<img class="crop-img"
+      class="img-responsive"
+      src="imgs/r2d2.jpg"
+      alt="R2D2"
+      />
+<img class="crop-img"
+      src="imgs/img_2.jpg"
+      alt="iPod"
+      />
+      <img class="crop-img"
+      src="imgs/img_3.jpg"
+      alt="Cheese"
+      />
+         <img class="crop-img"
+      src="imgs/img_4.jpg"
+      alt="Honey"
+      />
+-->
+<br>
+<br>
+<p>
+Firstly, here is some FAQ <br>
+
+   Q4; How are your prints made?
+   <br>
+   <br>
+   A; I use a pencil to draw my idea on a plain piece of white A4 paper, outline it carefully with a fineliner then scan it and add colour in Illustrator. I print the design at home using my Brother printer using the 350gsm paper I buy from a local paper shop. I will then go to the post office, buy a tube and send it off to you. Basically, this operation is all me and no one else.
+<br>
+
+<br>
+ </p>
+
+pencil, fineliner, A3 Ice White 300gsm paper, ink, poster tube, rubber, Adobe Illustrator, my hands
+This is an A3 print and comes on Ice White 300gsm paper. 
+
+All of the prints are made at home via my inkjet printer so if you buy one I will print it myself and post it to you myself.
+
+All photos by Damien Hyde Photography.
+
+
+
+
+
+
+
+
+
+</section>
+
+
+
+
+
+<section>
+<!--linking to the Section -->
+<div id ="shop" class="shop">
+<h1>Merchandise</h1>
+<h2> 
+
+
+
+<!--giant header to try sell stuff --><h1 class ="text-center">
+<img src="imgs/craig.jpg" width="600px" height="800px" alt="bane"/>
+<img src="imgs/jade.jpg" width="600px" height="800px" alt="bane"/><br>
+</h1>
+PHOTOS OF FRIENDS HOLDING PRINTS
+AND PEOPLE PUTTING ON TSHIRTS
+
+BUY THINGS(T-shirts and prints)
+
+mini shop with buttons goes here
+<div class="jumbotron">
+<center><h2>Click the link to feel as happy as these guys</h2>
+
+<p><center><a class="btn btn-primary btn-lg" href="http://www.stuffbydanieljamesclives.bigcartel.com" role="button">BUY STUFF HERE</a><center></p></center>
+<br>
+
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class="text-center">
+<p>&copy; Stuff By Danny James Clives. 2013 - Death </p>
+</footer>
+
+
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script> 
+
+
+
+<script src="flickity-docs/flickity.pkgd.min.js"></script>
+
+
+
+<!--script so hamburger menu will close after user has clicked on link-->
+<script>
+$(document).on('click','.navbar-collapse.in',function(e) {
+    if( $(e.target).is('a') && ( $(e.target).attr('class') != 'dropdown-toggle' ) ) {
+        $(this).collapse('hide');
+    }
+});</script>
+</body>
+</html>
